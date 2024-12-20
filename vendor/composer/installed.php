@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'modernoop/pph21',
+        'name' => 'muammarrizal/pph21',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '7261874c48c18d4435b0bda63b689ad95486d398',
+        'reference' => 'fe1895c0500121a0fb1922ddc73d15d8ade4f723',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'modernoop/pph21' => array(
+        'muammarrizal/pph21' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '7261874c48c18d4435b0bda63b689ad95486d398',
+            'reference' => 'fe1895c0500121a0fb1922ddc73d15d8ade4f723',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
